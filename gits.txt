@@ -58,6 +58,7 @@ https://github.com/samyk/pwnat
 https://github.com/SpiderLabs/Responder
 https://github.com/beefproject/beef
 https://github.com/jbarcia/Web-Shells/
+https://github.com/vpuydoyeux/GitMgr.git
 https://github.com/pentestmonkey/unix-privesc-check
 https://github.com/IOActive/jdwp-shellifier
 https://github.com/pentestmonkey/smtp-user-enum
