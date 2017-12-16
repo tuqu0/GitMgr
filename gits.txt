@@ -2,6 +2,7 @@ https://github.com/cgsecurity/testdisk
 https://github.com/frohoff/ysoserial
 https://github.com/java-decompiler/jd-gui
 https://gist.github.com/eelsivart/10174134
+https://github.com/koutto/java-binary-deserializer
 https://github.com/wpscanteam/wpscan
 https://github.com/byt3bl33d3r/MITMf
 https://github.com/psecio/iniscan
@@ -28,6 +29,8 @@ https://github.com/trustedsec/social-engineer-toolkit/
 https://github.com/BloodHoundAD/SharpHound
 https://github.com/sqlmapproject/sqlmap
 https://github.com/moyix/creddump
+https://github.com/SySS-Research/Seth
+https://github.com/koutto/canape-resources
 https://github.com/mwrlabs/drozer
 https://github.com/royhills/ike-scan
 https://github.com/AlessandroZ/BeRoot
@@ -39,6 +42,7 @@ https://github.com/tyranid/ExploitRemotingService
 https://github.com/kost/drcrack
 https://github.com/joaomatosf/jexboss
 https://github.com/hfiref0x/UACME
+https://github.com/koutto/dotnet-binary-deserializer
 https://github.com/huntergregal/mimipenguin
 https://github.com/BloodHoundAD/BloodHound
 https://github.com/AlessandroZ/LaZagne
@@ -54,6 +58,7 @@ https://github.com/blark/checksmbv1
 https://github.com/vanhauser-thc/thc-hydra
 https://github.com/nmap/nmap
 https://github.com/inAudible-NG/RainbowCrack-NG
+https://github.com/koutto/jok3r
 https://github.com/samyk/pwnat
 https://github.com/SpiderLabs/Responder
 https://github.com/beefproject/beef

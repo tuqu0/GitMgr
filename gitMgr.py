@@ -45,6 +45,7 @@ def importGitRepositories(root, filename):
     count = 0
     fd = open(filename, 'r')
     projects = fd.readlines()
+    os.chdir(root)
     for project in projects:
         print colored('Downloading project %s' % project, 'green')
         print os.popen("git clone %s" % project).read()
