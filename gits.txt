@@ -16,6 +16,7 @@ https://github.com/secforce/sparta.git
 https://github.com/volatilityfoundation/volatility
 https://github.com/sachinchoolur/lightGallery
 https://github.com/metalnas/loubia
+https://github.com/rafael-santiago/pig
 https://github.com/frohoff/jimmix
 https://github.com/AndroBugs/AndroBugs_Framework
 https://github.com/quentinhardy/odat
@@ -66,6 +67,7 @@ https://github.com/jbarcia/Web-Shells/
 https://github.com/vpuydoyeux/GitMgr.git
 https://github.com/pentestmonkey/unix-privesc-check
 https://github.com/IOActive/jdwp-shellifier
+https://github.com/vpuydoyeux/cveSearch
 https://github.com/pentestmonkey/smtp-user-enum
 https://github.com/magnumripper/JohnTheRipper
 https://github.com/linkedin/qark
