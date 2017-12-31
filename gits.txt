@@ -20,6 +20,7 @@ https://github.com/metalnas/loubia
 https://github.com/rafael-santiago/pig
 https://github.com/frohoff/jimmix
 https://github.com/AndroBugs/AndroBugs_Framework
+https://github.com/gmhzxy/remote-assistance-privilege-escalation
 https://github.com/quentinhardy/odat
 https://github.com/clymb3r/PowerShell
 https://github.com/crunchsec/crunch
@@ -30,6 +31,7 @@ https://github.com/nelenkov/android-backup-extractor
 https://github.com/trustedsec/social-engineer-toolkit/
 https://github.com/BloodHoundAD/SharpHound
 https://github.com/sqlmapproject/sqlmap
+https://github.com/SystemRage/py-kms
 https://github.com/moyix/creddump
 https://github.com/SySS-Research/Seth
 https://github.com/koutto/canape-resources
